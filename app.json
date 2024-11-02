@@ -1,0 +1,47 @@
+{
+  "expo": {
+    "name": "MobileApp",
+    "slug": "MobileApp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "air"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.anushika_nethsara.MobileApp",
+      "googleServicesFile":"./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyC3YAzGrnVF_SgpTy7KcNdvaKUjWbkmvEE"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c9a8b67a-47cb-44bb-9526-6aa03177bc2b"
+      }
+    }
+  }
+}

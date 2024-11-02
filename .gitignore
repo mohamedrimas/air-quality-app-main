@@ -1,0 +1,79 @@
+# Node modules
+/node_modules
+/npm-debug.*
+
+# Logs
+logs
+*.log
+*.log.*
+
+# Expo files
+.expo
+.expo-shared
+
+# Metro bundler
+.cache
+/bundler/
+
+# React Native
+*.hmap
+*.lock
+*.xcuserdatad
+/ios/Pods
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxuser
+*.xcuserstate
+*.xcworkspace
+/ios/build/
+/android/app/build/
+/android/.gradle
+/android/.idea
+/android/.vscode
+/android/local.properties
+
+# Xcode
+ios/DerivedData/
+/ios/.DS_Store
+ios/*.workspace
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Test coverage
+/coverage
+
+# Build output
+*.apk
+*.aab
+*.app
+*.ipa
+*.a
+*.o
+*.d
+*.out
+*.so
+*.jsbundle
+
+# Mac OS files
+.DS_Store
+
+# Android Studio
+.idea/
+.gradle/
+local.properties
+
+# IntelliJ IDEA
+*.iml
+*.iws
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries
+/.idea/libraries
+
+# VS Code
+.vscode/

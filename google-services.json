@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "826537183684",
+    "project_id": "air-quality-app-57882",
+    "storage_bucket": "air-quality-app-57882.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826537183684:android:2c5dcf724e363f9d3cbc91",
+        "android_client_info": {
+          "package_name": "com.anushika_nethsara.MobileApp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh7wpDbfCr4WP3i7q55JooATDzUjjNCgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
